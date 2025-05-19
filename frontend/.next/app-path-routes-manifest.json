@@ -1,0 +1,19 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/favicon.ico/route": "/favicon.ico",
+  "/articulos/[slug]/editar-imagenes/page": "/articulos/[slug]/editar-imagenes",
+  "/articulos/[slug]/page": "/articulos/[slug]",
+  "/articulos/crear/page": "/articulos/crear",
+  "/articulos/page": "/articulos",
+  "/categorias/[slug]/page": "/categorias/[slug]",
+  "/categorias/page": "/categorias",
+  "/contacto/page": "/contacto",
+  "/destinos/[slug]/page": "/destinos/[slug]",
+  "/destinos/page": "/destinos",
+  "/login/page": "/login",
+  "/page": "/",
+  "/perfil/page": "/perfil",
+  "/privacidad/page": "/privacidad",
+  "/recomendaciones/page": "/recomendaciones",
+  "/registro/page": "/registro"
+}
